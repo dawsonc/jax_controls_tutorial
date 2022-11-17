@@ -5,7 +5,6 @@ Run the following to install and setup the environment
 conda create -n jax_tutorial -y
 conda activate jax_tutorial
 pip install -r requirements.txt
-pip install -e .
 python -m ipykernel install --user --name jax_tutorial --display-name "Python (jax_tutorial)"
 ```
 
