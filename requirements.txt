@@ -1,0 +1,9 @@
+jax[cpu]
+numpy
+matplotlib
+ipykernel
+notebook
+scipy
+flax
+optax
+equinox
